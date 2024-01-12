@@ -12,6 +12,8 @@ struct ContentView: View {
         
         TabView {
             
+            // test
+            
             MenuView()
                 .tabItem{
                     VStack {
